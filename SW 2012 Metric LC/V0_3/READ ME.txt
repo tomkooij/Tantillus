@@ -1,0 +1,29 @@
+Tantillus Laser Cutter Metric Edition Solidworks 2012 Model V0.3
+See http://www.tantillus.org/ or http://forums.reprap.org/list.php?279 for more info.
+
+Orginal work by Sublime, thanks heaps for the design!
+
+*********************************************************************
+THIS IS A WORK IN PROGRESS, THERE MAYBE THINGS WRONG WITH MODEL.
+THERE HAS NOT BEEN A FULLY ASSEMBLED, WORKING MACHINE OF THIS MODEL YET!
+*********************************************************************
+
+
+ 
+If you print off this model and things are wrong do not blame me!
+
+Check each part for configurations. 
+
+Some parts have 3d print configurations, and laser cutter offset configurations.
+
+Top Level Assembly has display states for removing covers.
+
+
+Cheers
+Will Work For Plastic
+(And Paintballs)
+
+
+
+
+"It's all about the game" - Dean Ernie Calhoun
