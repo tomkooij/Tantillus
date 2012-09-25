@@ -1,0 +1,53 @@
+Tantillus Laser Cutter Metric Edition Solidworks 2012 Model V0.5
+See http://www.tantillus.org/ or http://forums.reprap.org/list.php?279 for more info.
+
+*********************************************************************
+THIS IS A WORK IN PROGRESS, THERE MAYBE THINGS WRONG WITH MODEL.
+THERE HAS NOT BEEN A FULLY ASSEMBLED, WORKING MACHINE OF THIS MODEL YET!
+*********************************************************************
+
+ 
+If you print off this model and things are wrong do not blame me!
+
+Check each part for configurations. 
+
+Some parts have 3d print configurations, and laser cutter offset configurations.
+
+Top Level Assembly has display states for removing covers.
+
+
+Cheers
+Will Work For Plastic
+(And Paintballs)
+
+
+"If you book them, they will come." - Spirit of Jim Morrison
+
+
+An now for the boring Rev history:
+
+V0.5
+Fixes as per Sublime Found:
+Lower Corners height reduced from 40.5mm to 30.5mm
+Updated XY ends to latest rev from Sublime
+Updated upper gears to latest rev from Sublime
+Changed front pannel fillment hole from 6mm to 8mm
+Changed Z-lift to be correct way around and removed redundant plate
+Changed Z-axis shaft hole in Z upper bracket from 6mm to 8mm
+
+V0.4
+Changed holes in XY ends from 8.2mm to 8.0mm
+Added missing features in extruder body
+Correct extruder spring posistions
+Removed plattern springs
+Added Glass and bull dog clips
+Added Fans in
+Added all gears in supplied by eric (Chur Eric)
+Added electronic assembly in supplied by eric (Chur Chur eric)
+Completed adding fastners
+Fan mount snap hocks profile changed to allow easier snap on
+Slight issue with top part of carriage not clamping hot end well. That is blind hole slightly too deep. Reduced clearance.
+
+
+V0.3 
+Intial release into the wild
