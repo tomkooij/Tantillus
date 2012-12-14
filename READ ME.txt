@@ -13,7 +13,8 @@ Check each part for configurations.
 
 Some parts have 3d print configurations, and laser cutter offset configurations.
 
-Top Level Assembly has display states for removing covers.
+Top Level Assembly has display states for removing covers. Also Configurations for various hacks I have done to my machine.
+Many configs now through models!
 
 
 Cheers
@@ -21,10 +22,24 @@ Will Work For Plastic
 (And Paintballs)
 
 
-"You never see a positive drug story on the news" - Bill Hicks
+"Guy, if there's one thing you learn tonight, I hope it's this: The shit ain't over 'till the last record spins." - Groove
 
 
 An now for the boring Rev history:
+
+V0.7
+Mainly fixed model to be backwards compatible with orginal imperial design
+Fixed front pannel bearing pitch mistake (off by 0.25mm)
+Increase XY ends shaft hole size to 8.2mm as per orginal design
+Tapered wire holes in upper cariage as per orginal design
+XY ends updated to new design as per orginal design
+Slightly adjusted printed bush dims to match orginal design
+Added SD ramps holder hack
+Added Voltage/Current meter hack
+Added Die Spring Hack
+Added missing fastner for Audrino
+Drawings to come in next rev
+
 
 V0.6
 Fixed stepper lenght from 48mm to 40mm
