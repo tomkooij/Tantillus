@@ -22,10 +22,17 @@ Will Work For Plastic
 (And Paintballs)
 
 
-"Guy, if there's one thing you learn tonight, I hope it's this: The shit ain't over 'till the last record spins." - Groove
+"With the lights out, it's less dangerous" - Nirvana
 
 
 An now for the boring Rev history:
+
+V0.8
+Updated Lower Bed Mounting Holes to be in same position as orginal (imperial design) to improve cross compatiblity
+Moved position of bull dog clip to avoid one hitting hand on fan when putting on
+Moved laser cutting hack files to hack folder to avoid confusion
+Added another laser cutting hack file for future heated bed trials
+
 
 V0.7
 Mainly fixed model to be backwards compatible with orginal imperial design
