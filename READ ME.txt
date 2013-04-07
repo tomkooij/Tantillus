@@ -22,10 +22,16 @@ Will Work For Plastic
 (And Paintballs)
 
 
-"With the lights out, it's less dangerous" - Nirvana
+"I deal only in facts, that's why I'm a cocky fuckin' bastard." - Bill Hicks
 
 
 An now for the boring Rev history:
+
+V0.9
+Added BOM/Assembly drawings (finally)
+Added much more to hacked config (not tested properly yet)
+Could not save off an overall hacked version STL (SW crashing when saving off......)
+
 
 V0.8
 Updated Lower Bed Mounting Holes to be in same position as orginal (imperial design) to improve cross compatiblity
